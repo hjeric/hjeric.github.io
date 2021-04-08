@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "김현준"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/IMG-1413.jpg"
   bio              : "꿈을 이루기 위해 나아가는 학생"
   location         : "대한민국, 서울"
   email            : hjeric2004@gmail.com
